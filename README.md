@@ -8,7 +8,7 @@ Below are the visual representations of the company's financial health and valua
 
 ### 1. Executive Dashboard
 Summarizes the key health indicators and valuation at a glance.
-![Executive Dashboard](./path-to-your-images/Screenshot%202026-02-19%20105135.png)
+![Executive Dashboard](./path-to-your-iamge/Automated 3-Statement Company Health Engine charts/IMG.7.png)
 
 ### 2. Income Statement & Profitability Trends
 Visualizing revenue growth and margin expansion over the 5-year forecast period.
